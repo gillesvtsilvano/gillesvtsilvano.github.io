@@ -5,8 +5,8 @@ title: Hello World!
 Some sites and tips to improve the rest.
 
 
-| Subject       | Description           |
-| ------------- |:----------------------|
+| **Subject**       | **Description**           |
+| ----------------- |:--------------------------|
 | [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat Sheet") | Language to be used to right blog posts.         |
 | [Deep Learning Book](http://www.deeplearningbook.org "Deep Learning Book")      | Book about the mathematical basis of Deep Learning.              |
 | [Kaggle](https://www.kaggle.com/ "Kaggle") | Website for deep learning contests.|
