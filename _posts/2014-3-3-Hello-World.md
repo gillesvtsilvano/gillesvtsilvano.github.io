@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Some sites and tips to improve the rest.
+| Subject       | Description           |
+| ------------- |:----------------------|
+| [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheat Sheet") | Language to be used to right blog posts.         |
+| [Deep Learning Book](http://www.deeplearningbook.org "Deep Learning Book")      | Book about the mathematical basis of Deep Learning.              |
+| [Kaggle](https://www.kaggle.com/ "Kaggle") | Website for deep learning contests.|
+| [EEC2006](https://github.com/ivanovitchm/EEC2006) | Free deeplearning course hosted at github. |
